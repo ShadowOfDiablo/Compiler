@@ -1,0 +1,93 @@
+﻿  arithmeticexpression.cpp
+  base.cpp
+D:\Compailer\Project G\Project G\base.h(38,21): error C2504: 'BASETYPE': base class undefined
+D:\Compailer\Project G\Project G\base.h(39,13): error C2143: syntax error: missing ';' before '*'
+D:\Compailer\Project G\Project G\base.h(39,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Compailer\Project G\Project G\base.h(39,16): error C2238: unexpected token(s) preceding ';'
+D:\Compailer\Project G\Project G\base.h(40,13): error C2143: syntax error: missing ';' before '*'
+D:\Compailer\Project G\Project G\base.h(40,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Compailer\Project G\Project G\base.h(40,16): error C2238: unexpected token(s) preceding ';'
+D:\Compailer\Project G\Project G\base.h(42,7): error C2061: syntax error: identifier 'CONTENTTYPE'
+D:\Compailer\Project G\Project G\base.h(46,3): error C2523: 'NAME::~Name': destructor tag mismatch
+D:\Compailer\Project G\Project G\base.h(50,13): error C3646: 'Evaluate': unknown override specifier
+D:\Compailer\Project G\Project G\base.h(50,21): error C2059: syntax error: '('
+D:\Compailer\Project G\Project G\base.h(50,33): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\Compailer\Project G\Project G\base.h(51,49): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\base.h(42,41): error C2614: 'NAME': illegal member initialization: 'BASETYPE' is not a base or member
+D:\Compailer\Project G\Project G\base.h(43,9): error C2039: 'l': is not a member of 'NAME'
+D:\Compailer\Project G\Project G\base.h(38,7): message : see declaration of 'NAME'
+D:\Compailer\Project G\Project G\base.h(43,13): error C2065: 'l': undeclared identifier
+D:\Compailer\Project G\Project G\base.h(44,9): error C2039: 'r': is not a member of 'NAME'
+D:\Compailer\Project G\Project G\base.h(38,7): message : see declaration of 'NAME'
+D:\Compailer\Project G\Project G\base.h(44,13): error C2065: 'r': undeclared identifier
+D:\Compailer\Project G\Project G\base.h(47,10): error C2065: 'l': undeclared identifier
+D:\Compailer\Project G\Project G\base.h(47,3): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Compailer\Project G\Project G\base.h(48,10): error C2065: 'r': undeclared identifier
+D:\Compailer\Project G\Project G\base.h(48,3): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Compailer\Project G\Project G\base.h(55,12): error C2011: 'NAME': 'class' type redefinition
+D:\Compailer\Project G\Project G\base.h(38,7): message : see declaration of 'NAME'
+D:\Compailer\Project G\Project G\base.h(65,38): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\base.cpp(18,24): error C2084: function 'RelationalExpression::~RelationalExpression(void)' already has a body
+D:\Compailer\Project G\Project G\base.cpp(15,24): message : see previous definition of '{dtor}'
+  booleanexpression.cpp
+  lvalue.cpp
+  main.cpp
+D:\Compailer\Project G\Project G\base.h(38,21): error C2504: 'BASETYPE': base class undefined
+D:\Compailer\Project G\Project G\base.h(39,13): error C2143: syntax error: missing ';' before '*'
+D:\Compailer\Project G\Project G\base.h(39,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Compailer\Project G\Project G\base.h(39,16): error C2238: unexpected token(s) preceding ';'
+D:\Compailer\Project G\Project G\base.h(40,13): error C2143: syntax error: missing ';' before '*'
+D:\Compailer\Project G\Project G\base.h(40,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Compailer\Project G\Project G\base.h(40,16): error C2238: unexpected token(s) preceding ';'
+D:\Compailer\Project G\Project G\base.h(42,7): error C2061: syntax error: identifier 'CONTENTTYPE'
+D:\Compailer\Project G\Project G\base.h(46,3): error C2523: 'NAME::~Name': destructor tag mismatch
+D:\Compailer\Project G\Project G\base.h(50,13): error C3646: 'Evaluate': unknown override specifier
+D:\Compailer\Project G\Project G\base.h(50,21): error C2059: syntax error: '('
+D:\Compailer\Project G\Project G\base.h(50,33): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+D:\Compailer\Project G\Project G\base.h(51,49): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\base.h(42,41): error C2614: 'NAME': illegal member initialization: 'BASETYPE' is not a base or member
+D:\Compailer\Project G\Project G\base.h(43,9): error C2039: 'l': is not a member of 'NAME'
+D:\Compailer\Project G\Project G\base.h(38,7): message : see declaration of 'NAME'
+D:\Compailer\Project G\Project G\base.h(43,13): error C2065: 'l': undeclared identifier
+D:\Compailer\Project G\Project G\base.h(44,9): error C2039: 'r': is not a member of 'NAME'
+D:\Compailer\Project G\Project G\base.h(38,7): message : see declaration of 'NAME'
+D:\Compailer\Project G\Project G\base.h(44,13): error C2065: 'r': undeclared identifier
+D:\Compailer\Project G\Project G\base.h(47,10): error C2065: 'l': undeclared identifier
+D:\Compailer\Project G\Project G\base.h(47,3): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Compailer\Project G\Project G\base.h(48,10): error C2065: 'r': undeclared identifier
+D:\Compailer\Project G\Project G\base.h(48,3): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Compailer\Project G\Project G\base.h(55,12): error C2011: 'NAME': 'class' type redefinition
+D:\Compailer\Project G\Project G\base.h(38,7): message : see declaration of 'NAME'
+D:\Compailer\Project G\Project G\base.h(65,38): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\booleanExpression.h(31,1): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\booleanExpression.h(32,1): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\booleanExpression.h(33,1): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\arithmeticexpression.h(21,1): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\arithmeticexpression.h(22,1): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\arithmeticexpression.h(23,1): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\arithmeticexpression.h(24,1): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\arithmeticexpression.h(25,1): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\arithmeticexpression.h(27,1): error C2017: illegal escape sequence
+D:\Compailer\Project G\Project G\lvalue.h(15,15): error C3668: 'LocationValueVariable::Set': method with override specifier 'override' did not override any base class methods
+D:\Compailer\Project G\Project G\statement.h(14,11): error C2065: 'statement': undeclared identifier
+D:\Compailer\Project G\Project G\statement.h(14,4): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Compailer\Project G\Project G\statement.h(107,13): error C2086: 'Statement *StatementIfThenElse::statement': redefinition
+D:\Compailer\Project G\Project G\statement.h(111,9): error C2039: 'thencase': is not a member of 'StatementIfThenElse'
+D:\Compailer\Project G\Project G\statement.h(104,7): message : see declaration of 'StatementIfThenElse'
+D:\Compailer\Project G\Project G\statement.h(112,9): error C2039: 'elsecase': is not a member of 'StatementIfThenElse'
+D:\Compailer\Project G\Project G\statement.h(104,7): message : see declaration of 'StatementIfThenElse'
+D:\Compailer\Project G\Project G\statement.h(116,10): error C2065: 'thencase': undeclared identifier
+D:\Compailer\Project G\Project G\statement.h(116,3): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Compailer\Project G\Project G\statement.h(117,10): error C2065: 'elsecase': undeclared identifier
+D:\Compailer\Project G\Project G\statement.h(117,3): error C2541: 'delete': cannot delete objects that are not pointers
+D:\Compailer\Project G\Project G\statement.h(121,8): error C2065: 'thencase': undeclared identifier
+D:\Compailer\Project G\Project G\statement.h(125,9): error C2065: 'elsecase': undeclared identifier
+D:\Compailer\Project G\Project G\statement.h(126,6): error C2065: 'elsecase': undeclared identifier
+  relationalexpression.cpp
+D:\Compailer\Project G\Project G\relationalexpression.cpp(4,38): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Compailer\Project G\Project G\relationalexpression.cpp(4,10): error C2065: 'RelationalExpressionLessThan': undeclared identifier
+D:\Compailer\Project G\Project G\relationalexpression.cpp(4,40): error C2065: 'RelationalExpression': undeclared identifier
+D:\Compailer\Project G\Project G\relationalexpression.cpp(4,62): error C2065: 'ArithmeticExpression': undeclared identifier
+D:\Compailer\Project G\Project G\relationalexpression.cpp(4,84): error C2062: type 'bool' unexpected
+  statement.cpp
+  Generating Code...
